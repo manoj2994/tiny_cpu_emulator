@@ -14,7 +14,7 @@ Registers and memory play a key role in this process:
   - Registers: Small, fast storage locations inside the CPU that hold data and addresses.
   - Memory: The larger, slower storage for the program’s data (RAM).
 
-In a real CPU, operations like ADD, SUB, LOAD, JUMP, and HALT are often controlled by the Control Unit (CU) and Arithmetic Logic Unit (ALU).
+In a real CPU, operations like `ADD`, `SUB`, `LOAD`, `JUMP`, and `HALT` are often controlled by the Control Unit (CU) and Arithmetic Logic Unit (ALU).
 
 
 
